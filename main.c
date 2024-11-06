@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 #define tam 1000000
 
 int indices(int numero, int vetor[tam]);
